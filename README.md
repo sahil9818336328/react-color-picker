@@ -1,0 +1,4 @@
+- tints and shades color generator
+- generate colors using values.js library
+- color picker HTML element
+- react toastify for displaying toast
